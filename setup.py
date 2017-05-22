@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '1.3.2nuffic'
+version = '1.3.3nuffic.dev0'
 
 setup(name='Products.RedirectionTool',
       version=version,
